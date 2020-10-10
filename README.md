@@ -21,7 +21,7 @@ import (
 
 func main() {
 
-    // Create a new Trie
+	// Create a new Trie
 	t := NewTrie() 
 
 	// Insert items
